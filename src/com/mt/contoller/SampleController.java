@@ -26,6 +26,6 @@ public class SampleController {
 		js.put("Places he like", "His native place");
 
 		return js.toString();
-
+//test code
 	}
 }
